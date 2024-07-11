@@ -1,6 +1,15 @@
 # Simple-Gmail-Sender
 This repository contains a Python script for sending simple emails using Gmail's SMTP server. It demonstrates how to establish a connection with the SMTP server, log in using Gmail credentials, compose an email with a subject and body, and send it to a specified recipient. The script is a straightforward example of using Python's smtplib and email.mime libraries for email operations. It's an excellent starting point for anyone looking to integrate basic email sending functionalities into their Python applications.
 
+## Simple Mail
+![image](https://github.com/user-attachments/assets/4311dac0-a6da-4b43-ac8d-70de634c2784)
+
+![image](https://github.com/user-attachments/assets/52347349-be7a-4336-98ad-c234b801c78c)
+
+
+
+## Attachment-mail
+
 ![image](https://github.com/user-attachments/assets/906727c4-c5f0-471d-818e-1616a1fc1e6a)
 
 ![image](https://github.com/user-attachments/assets/5fcd4086-748e-4419-a022-8cc2d0f2612f)

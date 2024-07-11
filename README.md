@@ -7,7 +7,7 @@ This repository contains a Python script for sending simple emails using Gmail's
 
 
 
-Make sure to create application in your gmail account and enable 2step-MFA
+Ensure you create an application within your Gmail account and activate two-step verification (2FA) for enhanced security.
 
 ```sh
 https://myaccount.google.com/u/0/apppasswords

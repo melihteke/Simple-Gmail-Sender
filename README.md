@@ -3,7 +3,8 @@ This repository contains a Python script for sending simple emails using Gmail's
 
 ![image](https://github.com/user-attachments/assets/906727c4-c5f0-471d-818e-1616a1fc1e6a)
 
-![image](https://github.com/user-attachments/assets/3984748b-ebdb-4f15-b180-257464181418)
+![image](https://github.com/user-attachments/assets/5fcd4086-748e-4419-a022-8cc2d0f2612f)
+
 
 
 Make sure to create application in your gmail account and enable 2step-MFA
